@@ -10,13 +10,13 @@ export default class Navbar extends Component {
         {
           icon: 'fas fa-store',
           name: '商城',
-          to: '/',
+          to: '/mall',
           exact: true,
         },
         {
           icon: 'fas fa-shopping-cart',
           name: '订单',
-          to: '/order',
+          to: '/cart',
           exact: false,
         },
         {

@@ -1,10 +1,10 @@
 import React, { Component } from 'react'
 
-export default class Order extends Component {
+export default class Mall extends Component {
   render() {
     return (
       <div>
-        Order Page
+        Mall Page
       </div>
     )
   }
