@@ -1,0 +1,27 @@
+.product {
+  border: 1px solid grey;
+  padding: 1em;
+  width: 20%;
+  max-width: 20%;
+  min-width: 20%;
+  flex: 1;
+  margin: 1em;
+}
+
+.product-image {
+  height: 7em;
+  width: 100%;
+}
+
+.product-name {
+  font-weight: bold;
+}
+
+.product-price {
+  color: grey;
+  font-weight: 300;
+}
+
+.product button {
+  float: right;
+}
